@@ -1,7 +1,7 @@
 # Sch.Finance
  site/app 
  Aqui vc tem uma aplicação para fazer a gestao de gastos pessoais.
- Nessa aplicação temos html, css e javascrip
+ Nessa aplicação temos html, css e javascript
 
 
  Instrucoes para aplicaçao ;
