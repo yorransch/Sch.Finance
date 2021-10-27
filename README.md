@@ -6,5 +6,5 @@
 
  Instrucoes para aplicaçao ;
  Clic em "nova transação" e de um nome e um valor para sua nova transaçao.
- "Lembrando que valores com sinal negativo vao diminuair o valor de entrada.
+ "Lembrando que valores com sinal (-) negativo vao diminuir o valor de entrada.
  
